@@ -1,8 +1,8 @@
 # 💫About Me :
 
-# Xin chào! 👋 Tôi là [Thái]
+# Xin chào! 👋 Tôi là Thái
 
-Chào mừng bạn đến với trang profile GitHub của tôi! Tôi là một [Fullstack Developer].
+Chào mừng bạn đến với trang profile GitHub của tôi! Tôi là một Fullstack Developer.
 
 Tôi hiện đang tập trung vào việc xây dựng các ứng dụng web hiệu quả và thân thiện với người dùng, sử dụng các công nghệ hiện đại.
 
@@ -19,7 +19,7 @@ Dưới đây là một số công nghệ và công cụ mà tôi đã làm vi�
 Hãy kết nối với tôi qua:
 
 *   **Email:** [kkdn011@gmail.com]
-*   **Website/Portfolio:** [Link đến website hoặc portfolio của bạn (nếu có)]
+*    **Phone:** [0775585746]
 
 Cảm ơn bạn đã ghé thăm profile của tôi! Hãy cùng nhau xây dựng những điều tuyệt vời! ✨
 
