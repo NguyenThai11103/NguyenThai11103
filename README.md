@@ -1,5 +1,5 @@
 # 💫About Me :
-
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF6B6B.svg?style=plastic&logo=web&logoColor=white)](https://nguyenthai11103.github.io/portfolio_project) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white)](https://www.facebook.com/nguyen.thai.11302)
 # Xin chào! 👋 Tôi là Thái
 
 Chào mừng bạn đến với trang profile GitHub của tôi! Tôi là một Fullstack Developer.
